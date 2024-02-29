@@ -14,4 +14,4 @@
 * `Word_Embeddings.ipynb`:
 > Includes all relevant code to the assignment (datasets, word embeddings models, analysis, and logistic regression models)
 * `report.md`:
-* > Contains reflections on assignment
+> Contains reflections on assignment
